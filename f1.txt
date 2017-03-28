@@ -1,8 +1,1 @@
-function (){
-
-<<<<<<< HEAD
-return 'master';
-=======
-return 'exp';
->>>>>>> exp
-}
+update a
